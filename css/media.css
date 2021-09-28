@@ -1,0 +1,541 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px){
+	/*Header Start*/
+	.page{
+		text-align: right;
+	}
+
+	.custom-drop-nav li:first-child{
+		border-top: 1px solid #E1E0E4 !important;
+	}
+
+	.page-btn{
+		text-align: right;
+	}
+	/*Header End*/
+
+	/*Banner Start*/
+	.editor-text{
+		font-size: 15px;
+		padding: 7.5px 15px 7.5px 45px;
+	}
+	.editor-text img{
+		top: 2px;
+		left: 0;
+	}
+	.left-col-wrapper{
+		margin-top: 10px;
+	}
+	.banner-head {
+	    font-size: 32px;
+	    margin-top: 18px;
+	    margin-bottom: 14px;
+	}
+	.banner-text{
+		font-size: 16px;
+	}
+	.banner-video{
+		margin-left: 10px;
+	}
+	.left-col-wrapper{
+		text-align: center;
+	}
+	.right-col-wrapper{
+		text-align: center;
+		margin-left: 0;
+	}
+	/*Banner End*/
+
+
+	/*Trust Company Start*/
+	.trust-company{
+		padding-top: 50px;
+		padding-bottom: 20px;
+	}
+	/*Trust Company End*/
+
+	/*Awesome App start*/
+	.awesome-app{
+		padding-top: 50px;
+		padding-bottom: 20px;
+	}
+	.feature-icon{
+		margin-top: 40px;
+	}
+	.title{
+		font-size: 30px !important;
+		text-align: center;
+	}
+	.sub-title{
+		text-align: center;
+		margin-top: 10px !important;
+		margin-bottom: 20px !important;
+	}
+	/*Awesome App End*/
+
+	/*Smart Jackpot Start*/
+	.jackpot-wrapper h1{
+		font-size: 30px;
+	}
+	/*Smart Jackpot End*/
+		/*Automatic Payouts start*/
+	.auto-payout{
+		padding: 50px 0 20px 0;
+	}
+	.auto-payout-desc h2{
+		margin-top: 15px;
+		font-size: 20px;
+	}
+	.auto-payout-desc p{
+		margin-bottom: 30px !important;
+		font-size: 15px;
+	}
+
+	/*Automatic Payouts End*/
+
+	/*Jackpot Start*/
+	.jackpot-wrapper h1{
+		text-align: center;
+	}
+
+	.jackpot-desc-wrapper p{
+		text-align: center;
+	}
+	/*Jackpot End*/
+	/*Design built start*/
+	.design-built{
+		padding-top: 50px;
+		padding-bottom: 20px;
+	}
+
+	.design-built-desc-wrapper h2{
+		margin-top: 15px;
+		text-align: center;
+		margin-right: 0px;
+		font-size: 30px;
+	}
+	.design-built-desc-wrapper p{
+		text-align: center;
+	}
+	.design-btn-wrapper{
+		text-align: center;
+	}
+	/*Desing Built End*/
+
+	/*Choose Start*/
+	.choose{
+		padding: 50px 0 20px 0;
+	}
+	.choose-subtitle {
+	    margin-top: 5px !important;
+	    margin-bottom: 30px !important;
+	}
+
+	.single-choose p:last-child{
+		margin-bottom: 0;
+	}
+
+	/*Choose End*/
+
+	/*ultimate-feature Start*/
+	.ultimate-feature{
+		padding: 50px 0 20px 0;
+	}
+	.single-choose{
+		text-align: center;
+	}
+	.ultimate-feature-btn{
+		text-align: center;
+	}
+	/*ultimate-feature end*/
+	/*Awesome feature Price start*/
+	.awesome-feature{
+		padding: 50px 0 20px 0;
+	}
+	.choose-subtitle-awesome-feature {
+	    margin-bottom: 30px !important;
+	}
+	.price-card-top{
+		padding: 14px 0 7px 0;
+	}
+	.price-card-bottom ul li{
+		margin-top: 10px !important;
+	}
+	/*Awesome Feature Price End*/
+
+			/*Testimonial Start*/
+
+	.testimonial{
+		padding: 60px 0 30px 0;
+	}
+
+	.testimonial-img-wrapper{
+		text-align: center;
+	}
+
+	.testimonial-img-wrapper img{
+		width: 60%;
+	}
+
+	.testi-sub{
+		text-align: center;
+	}
+
+	.testimonial h3{
+		font-size: 16px;
+		margin-bottom: 0;
+	}
+
+	/*testimonial end*/
+
+			/*Faq start*/
+	.faq{
+		padding: 50px 0 20px 0;
+	}
+	/*Faq End*/
+
+	/*download app start*/
+	.download-app{
+		padding: 20px 0 10px 0;
+	}
+
+	.download-app p{
+		text-align: center;
+	}
+
+	.size-foureight{
+		font-size: 30px;
+	}
+
+/*Download App end*/
+footer{
+	padding: 35px 0;
+}
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*Header Start*/
+	.page{
+		text-align: right;
+	}
+	.page-btn{
+		text-align: right;
+	}
+	/*Header End*/
+
+	/*Banner Start*/
+	
+	.left-col-wrapper{
+		margin-top: 10px;
+	}
+	.banner-head {
+	    font-size: 45px;
+	    margin-top: 20px;
+	    margin-bottom: 20px;
+	}
+	.left-col-wrapper{
+		text-align: center;
+	}
+	.right-col-wrapper{
+		text-align: center;
+		margin-left: 0;
+	}
+	/*Banner End*/
+
+	/*Trust Company Start*/
+	.trust-company{
+		padding-top: 60px;
+		padding-bottom: 30px;
+	}
+	/*Trust Company End*/
+	
+	/*Awesome App start*/
+	.title{
+		text-align: center;
+	}
+	.sub-title{
+		text-align: center;
+	}
+	.awesome-app{
+		padding-top: 60px;
+		padding-bottom: 30px;
+	}
+	.feature-icon{
+		margin-top: 0px;
+	}
+	.sub-title{
+		margin-top: 10px !important;
+		margin-bottom: 30px !important;
+	}
+	/*Awesome App End*/
+		/*Automatic Payouts start*/
+	.auto-payout{
+		padding: 60px 0 30px 0;
+	}
+	.auto-payout-desc h2{
+		margin-top: 20px;
+		font-size: 16px;
+	}
+	/*Automatic Payouts End*/
+
+	/*Jackpot Start*/
+	.jackpot-wrapper h1{
+		text-align: center;
+	}
+	.jackpot-desc-wrapper p{
+		text-align: center;
+	}
+	/*Jackpot End*/
+
+	/*Design built start*/
+	.design-built{
+		padding-top: 60px;
+		padding-bottom: 30px;
+	}
+
+	.design-built-desc-wrapper h2{
+		margin-right: 0px;
+		font-size: 30px;
+	}
+	/*Desing Built End*/
+
+	/*Choose Start*/
+	.choose{
+		padding: 60px 0 0px 0;
+	}
+	.choose-subtitle {
+	    margin-top: 5px !important;
+	    margin-bottom: 30px !important;
+	}
+	/*Choose End*/
+
+	/*ultimate-feature start*/
+	.ultimate-feature{
+		padding: 60px 0 30px 0;
+	}
+	.single-choose{
+		text-align: center;
+	}
+	.ultimate-feature-btn{
+		text-align: center;
+	}
+	/*ultimate-feature end*/
+
+	/*Awesome feature Price start*/
+	.awesome-feature{
+		padding: 60px 0 30px 0;
+	}
+	.choose-subtitle-awesome-feature {
+	    margin-bottom: 40px !important;
+	}
+	/*Awesome Feature Price End*/
+
+		/*Testimonial Start*/
+
+	.testimonial{
+		padding: 60px 0 30px 0;
+	}
+
+	.testimonial-img-wrapper{
+		text-align: center;
+	}
+
+	.testimonial-img-wrapper img{
+		width: 60%;
+	}
+
+	.title{
+		text-align: center;
+	}
+
+	.testi-sub{
+		text-align: center;
+	}
+
+	/*testimonial end*/
+
+		/*Faq start*/
+	.faq{
+		padding: 60px 0 30px 0;
+	}
+	/*Faq End*/
+
+		/*download app start*/
+	.download-app{
+		padding: 30px 0 20px 0;
+	}
+	.download-app p{
+		text-align: center;
+	}
+	.size-foureight{
+		font-size: 36px;
+	}
+
+/*Download App end*/
+footer{
+	padding: 55px 0;
+}
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+	/*Header Start*/
+
+	.page{
+		text-align: right;
+	}
+	.page-btn{
+		text-align: right;
+	}
+	/*Header End*/
+
+	/*Banner Start*/
+	.editor-text{
+		font-size: 16px;
+		margin-left: -9px;
+	}
+	.left-col-wrapper{
+		margin-top: 200px;
+	}
+	.banner-head{
+		font-size: 40px;
+		margin-top: 25px;
+		margin-bottom: 30px;
+	}
+	/*Banner End*/
+
+	/*Trust Company Start*/
+	.trust-company{
+		padding-top: 70px;
+		padding-bottom: 40px;
+	}
+	/*Trust Company End*/
+
+	/*Awesome App start*/
+	.awesome-app{
+		padding-top: 70px;
+		padding-bottom: 40px;
+	}
+	/*Awesome App End*/
+
+	/*Automatic Payouts start*/
+	.auto-payout{
+		padding: 80px 0 40px 0;
+	}
+
+	.auto-payout-desc h2{
+		margin-top: 30px;
+		font-size: 18px;
+	}
+	/*Automatic Payouts End*/
+
+	/*Design built start*/
+	.design-built{
+		padding-top: 70px;
+		padding-bottom: 40px;
+	}
+
+	.design-built-desc-wrapper h2{
+		margin-right: 30px;
+		font-size: 36px;
+	}
+	/*Desing Built End*/
+
+	/*Choose Start*/
+	.choose{
+		padding: 70px 0 0px 0;
+	}
+	/*Choose End*/
+
+	/*Ultimate Feature Start*/
+	.ultimate-feature{
+		padding: 70px 0 40px 0;
+	}
+	/*Ultimate Feature end*/
+
+	/*Awesome feature Price start*/
+	.awesome-feature{
+		padding: 70px 0 40px 0;
+	}
+	.choose-subtitle-awesome-feature {
+	    margin-bottom: 50px !important;
+	}
+	/*Awesome Feature Price End*/
+
+	/*Testimonial Start*/
+
+	.testimonial{
+		padding: 70px 0 40px 0;
+	}
+
+	.testimonial-img-wrapper{
+		text-align: center;
+	}
+
+	.testimonial-img-wrapper img{
+		width: 60%;
+	}
+
+	.title{
+		text-align: center;
+	}
+
+	.testi-sub{
+		text-align: center;
+	}
+
+	/*testimonial end*/
+
+	/*Faq start*/
+	.faq{
+		padding: 70px 0 40px 0;
+	}
+	/*Faq End*/
+	/*download app start*/
+	.download-app{
+		padding: 40px 0 30px 0;
+	}
+
+	.size-foureight{
+		font-size: 40px;
+	}
+
+/*Download App end*/
+
+footer{
+	padding: 65px 0;
+}
+
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+	/*Banner Start*/
+	.left-col-wrapper{
+		margin-top: 280px;
+	}
+	.banner-head{
+		font-size: 50px;
+		margin-top: 25px;
+		margin-bottom: 30px;
+	}
+	/*Banner End*/
+
+}
+
+/*X large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	
+}
+
+/*XX Large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+}
+
